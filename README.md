@@ -13,24 +13,24 @@ Hi! I’m **David A. Sanders Jr.** 👋, a passionate developer, innovator, and 
 ---
 
 ## 🌟 Current Projects
-### 🚗 [TransForMotion](https://github.com/DavidASandersJr/TransForMotion)
+### 🚗 [TransForMotion](https://github.com/thadav3/TransForMotion)
 The future of personal transportation—a luxury hypercar that transforms into a humanoid robot. Combining advanced robotics, AI-driven systems, and eco-friendly design to redefine innovation.
 
 ---
 
 ## 📈 My GitHub Stats
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidASandersJr&show_icons=true&theme=radical)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thadav3&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidASandersJr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thadav3&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Get in Touch
 Let’s connect and collaborate!  
 - 💻 [My Portfolio](https://yourportfolio.com) *(Replace with actual link)*  
-- ✉️ Email: [davidsandersjr@example.com](mailto:davidsandersjr@example.com) *(Replace with your email)*  
-- 🐦 Twitter: [@DavidSandersJr](https://twitter.com/DavidSandersJr) *(Replace with your Twitter handle)*  
-- 💼 LinkedIn: [David A. Sanders Jr.](https://linkedin.com/in/davidasandersjr) *(Replace with your LinkedIn profile)*
+- ✉️ Email: david_thadave_sanders@streamunitenetwork.com
+- 🐦 facebook:https://www.facebook.com/thadav333
+- 💼 LinkedIn: thefuck
 
 ---
 
