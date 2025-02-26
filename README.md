@@ -27,7 +27,7 @@ The future of personal transportation—a luxury hypercar that transforms into a
 
 ## 📬 Get in Touch
 Let’s connect and collaborate!  
-- 💻 [My Portfolio](https://yourportfolio.com) *(Replace with actual link)*  
+- 💻 [My Portfolio] streamunitenetwork.com)  
 - ✉️ Email: david_thadave_sanders@streamunitenetwork.com
 - 🐦 facebook:https://www.facebook.com/thadav333
 - 💼 LinkedIn: thefuck
