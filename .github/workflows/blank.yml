@@ -61,10 +61,3 @@ jobs:
         run: |
           echo Deploying Afuzed...
           npm run deploy
-
-# Contribution and support information for Afuzed
-contributions:
-  - name: David Allen Sanders Jr.
-  contact: davidallensanders2017@gmail.com
-  support: If you appreciate the work I'm doing and want to support my efforts, you can make a contribution via PayPal:
-  PayPal: https://www.paypal.me/davidallensanders2017
